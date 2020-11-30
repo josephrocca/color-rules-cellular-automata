@@ -9,5 +9,8 @@ A few examples that fit within the upload limits of Github:
 ![](https://github.com/josephrocca/color-rules-cellular-automata/blob/main/results/avgsymbolsperrule_2--symbols_5--seed_3789612757181658855.gif?raw=true)
 ![](https://github.com/josephrocca/color-rules-cellular-automata/blob/main/results/avgsymbolsperrule_2--symbols_5--seed_535477901851029657.gif?raw=true)
 ![](https://github.com/josephrocca/color-rules-cellular-automata/blob/main/results/avgsymbolsperrule_2--symbols_5--seed_9005722278078483470.gif?raw=true)
+![](https://github.com/josephrocca/color-rules-cellular-automata/blob/main/results/avgsymbolsperrule_2--symbols_5--seed_8269510888484532536.gif?raw=true)
 ![](https://github.com/josephrocca/color-rules-cellular-automata/blob/main/results/avgsymbolsperrule_2--symbols_5--seed_8218251321124177500.gif?raw=true)
+
+Many more examples here: https://imgur.com/a/3FbQpXe
 
